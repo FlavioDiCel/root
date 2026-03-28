@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contrast, Repetition, Alignment, and Proximity</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 40px;
+            color: #000;
+        }
+
+        h1 {
+            font-size: 36px;
+        }
+
+        h2 {
+            margin-top: 40px;
+        }
+
+        a {
+            color: blue;
+        }
+
+        .section {
+            margin-bottom: 50px;
+        }
+
+        .image-box {
+            margin-top: 20px;
+        }
+
+        img {
+            width: 100%;
+            max-width: 900px;
+        }
+
+        ul {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Contrast, Repetition, Alignment, and Proximity</h1>
+
+    <!-- 🔹 CONTRAST -->
+    <div class="section">
+        <h2>Contrast</h2>
+
+        <a href="https://www.bancochile.cl" target="_blank">Banco de Chile</a>
+
+        <ul>
+<li>The website uses strong color contrast with blue, white, and red to highlight important actions like buttons.</li>
+<li>Headings are larger and bolder than body text, creating a clear visual hierarchy.</li>
+<li>Clickable elements stand out due to their distinct colors compared to the rest of the page.</li>
+        </ul>
+
+        <div class="image-box">
+            <img src="image1.jpg" alt="Contrast example">
+        </div>
+    </div>
+
+
+    <!-- 🔹 REPETITION -->
+    <div class="section">
+        <h2>Repetition</h2>
+
+        <a href="https://example.com" target="_blank">Website Name</a>
+
+        <ul>
+            <li>Explain repeated elements (colors, fonts, buttons).</li>
+            <li>Example: Same button style across the site.</li>
+            <li>Example: Consistent typography.</li>
+        </ul>
+
+        <div class="image-box">
+            <img src="image2.jpg" alt="Repetition example">
+        </div>
+    </div>
+
+
+    <!-- 🔹 ALIGNMENT -->
+    <div class="section">
+        <h2>Alignment</h2>
+
+        <a href="https://example.com" target="_blank">Website Name</a>
+
+        <ul>
+            <li>Explain how elements are aligned.</li>
+            <li>Example: Text aligned to the left.</li>
+            <li>Example: Grid layout used.</li>
+        </ul>
+
+        <div class="image-box">
+            <img src="image3.jpg" alt="Alignment example">
+        </div>
+    </div>
+
+
+    <!-- 🔹 PROXIMITY -->
+    <div class="section">
+        <h2>Proximity</h2>
+
+        <a href="https://example.com" target="_blank">Website Name</a>
+
+        <ul>
+            <li>Explain grouping of elements.</li>
+            <li>Example: Related items placed close together.</li>
+            <li>Example: Clear spacing between sections.</li>
+        </ul>
+
+        <div class="image-box">
+            <img src="image4.jpg" alt="Proximity example">
+        </div>
+    </div>
+
+</body>
+</html>
